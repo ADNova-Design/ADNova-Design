@@ -8,8 +8,11 @@ Desarrollador web freelance especializado en:
 
 ## Proyectos destacados
 
-- ADNova Design Web (https://adnova-design.github.io/ADNova/): Es una web de negocio para una agencia de Marketing, Publicidad y Diseño Gráfico.
-- Costing My Buy (https://adnova-design.github.io/CostingMyBuy/): Es una web app para una agencia de compras por internet, esta web brinda herramientas de cálculo y gestión de préstamos.
+- ADNova Design Web (https://adnova-design.github.io/ADNova/):
+Es una web de negocio para una agencia de Marketing, Publicidad y Diseño Gráfico.
+  
+- Costing My Buy (https://adnova-design.github.io/CostingMyBuy/):
+Es una web app para una agencia de compras por internet, esta web brinda herramientas de cálculo y gestión de préstamos.
 
 
 ## Redes Sociales
