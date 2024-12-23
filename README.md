@@ -14,8 +14,8 @@ Desarrollador web freelance especializado en:
 
 ## Redes Sociales
 
-Facebook: https://www.facebook.com/profile.php?id=61553894033337
-Instagram: https://www.instagram.com/adnovadesign/
+- Facebook: https://www.facebook.com/profile.php?id=61553894033337
+- Instagram: https://www.instagram.com/adnovadesign/
 
 
 ## Contáctame
